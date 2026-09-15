@@ -1,0 +1,10 @@
+{
+  "name": "67-calculator",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "start": "python3 -m http.server 8067 --directory dist",
+    "check": "node scripts/check-site.js && node --check dist/engine.js && node --check dist/script.js"
+  }
+}
