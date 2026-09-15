@@ -1,6 +1,6 @@
-# 67 Calculator
+# Calc
 
-A joke calculator: equations that equal 67 display Error. Every other result displays 67.
+A fully functioning calculator. hah
 
 ## Development
 
